@@ -1,0 +1,114 @@
+- Index 0: Animation Frames
+- Index 1: Animation Frame Bases
+- Index 2: Miscellaneous (See below for full list of- Archives)
+- Index 3: Interfaces
+- Index 4: Empty (Pre 772: Sound Effects)
+- Index 5: Maps
+- Index 6: Empty (Pre 772: Music)
+- Index 7: Models (.dat)
+- Index 8: Sprites
+- Index 9: Empty (Pre 839: Textures)
+- Index 10: Huffman encoding (Official name: Binary)
+- Index 11: Empty (Pre 772: Jiingles/interludes)
+- Index 12: Clientscripts (music list)
+- Index 13: Font metrics
+- Index 14: Sound Effects (Pre 772: MIDI Instruments)
+- Index 15: Empty (Pre 772: MIDI Instruments Configuration)
+- Index 16: Locations (commonly called objects)
+- Index 17: Enums
+- Index 18: Npcs 
+- Index 19: Objects (commonly called items)
+- Index 20: Sequences
+- Index 21: GFX/SpotAnimations
+- Index 22: Structs (Pre 745: Var Bit)
+- Index 23: World Map
+- Index 24: Quickchat
+- Index 25: Quickchat global
+- Index 26: Materials (MaterialRaws)
+- Index 27: Particles
+- Index 28: Defaults
+- Index 29: Billboards (Used by models to determine wich textures and scale.
+- Index 30: Native libraries
+- Index 31: Shaders
+- Index 32: Loading Fonts & Images
+- Index 33: Loading Screens
+- Index 34: Loading Fonts & Images (jagex format images)
+- Index 35: Cutscenes
+- Index 36: Empty
+- Index 37: Empty (Pre 839: Gfx Config)
+- Index 38: Empty
+- Index 39: Empty
+- Index 40: Music
+- Index 41: World Map Labels
+- Index 42: Unknown World Map Data
+- Index 43: Diffuse Textures (RGBA format)
+- Index 44: HDR Textures (high dynamic range textures) (RGBA format)
+- Index 45: DDS Textures
+- Index 46: RGBA Format Textures
+- Index 47: Models (.ob3)
+- Index 48: NXT/RuneTek7 Animations
+- Index 49: DatabaseTableIndex
+- Index 50: Unknown (PNG files)
+- Index 51: Unknown (DDS files)
+- Index 52: NxtTextures (PNG files)
+- Index 53: MobileTextures (PNG files)
+- Index 54: MippedMobileTextures (KTX11 (OpenGL) images ?)
+- Index 55: KTX11 (Opengl) images
+- Index 56: Unknown
+- Index 57: AchievementConfig
+- Index 255: ReferenceTable
+
+Indexes 51 to 56 were added around build 900.
+ 
+===Config Entries===
+- Archive 1: Floor underlay
+- Archive 3: Identikit
+- Archive 4: Floor overlay
+- Archive 5: Inventories
+- Archive 6: Empty (Pre 488: Locations)
+- Archive 7: Unknown <font color="#D0D0FF">(Server sided only)</font>
+- Archive 8: Empty (Pre 488: Enums)
+- Archive 9: Empty (Pre 488: Npcs)
+- Archive 10: Empty (Pre 488: Objects)
+- Archive 11: Params
+- Archive 12: Empty (Pre 488: Sequences)
+- Archive 13: Empty (Pre 488: Spotanim)
+- Archive 14: Empty (Pre 488: Var Bit)
+- Archive 15: Empty (Pre 745: Var Client Strings)
+- Archive 16: Empty (Pre 745: Var Player)
+- Archive 18: Areas <font color="#D0D0FF">(Server sided only)</font>
+- Archive 19: Empty (Pre 745: Var Client)
+- Archive 26: Empty (Pre 763: Structs)
+- Archive 29: Skyboxes
+- Archive 30: Sun definitions (Archive is empty)
+- Archive 31: Light intensity
+- Archive 32: Render anims
+- Archive 33: Cursors
+- Archive 34: Mapscenes
+- Archive 35: Quests
+- Archive 36: Worldmap info
+- Archive 40: Database Tables <font color="#D0D0FF">(Server sided only)</font>
+- Archive 41: Database Rows <font color="#D0D0FF">(Server sided only)</font>
+- Archive 42: Unknown <font color="#D0D0FF">(Server sided only)</font>
+- Archive 46: Hitmarks
+- Archive 47: Empty (Pre 745: Var Clan)
+- Archive 48: Item Codes <font color="#D0D0FF">(Server sided only)</font>
+- Archive 49: Categories <font color="#D0D0FF">(Server sided only)</font>
+- Archive 54: Empty (Pre 745: Var Clan Settings)
+- Archive 60: Var Player
+- Archive 61: Var Npc
+- Archive 62: Var Client
+- Archive 63: Var World <font color="#D0D0FF">(Server sided only)</font>
+- Archive 64: Var Region <font color="#D0D0FF">(Server sided only)</font>
+- Archive 65: Var Object <font color="#D0D0FF">(Server sided only)</font>
+- Archive 66: Var Clan
+- Archive 67: Var Clan Setting
+- Archive 68: Unknown Var related <font color="#D0D0FF">(Server sided only)</font>
+- Archive 69: Var Bit
+- Archive 70: Game log event <font color="#D0D0FF">(Server sided only)</font>
+- Archive 72: Hitbars
+- Archive 73: Unknown <font color="#D0D0FF">(Server sided only)</font>
+- Archive 75: Unknown Var related <font color="#D0D0FF">(Server sided only)</font>
+- Archive 76: Unknown <font color="#D0D0FF">(Server sided only)</font>
+- Archive 77: Anim flow control
+- Archive 80: Var Group
