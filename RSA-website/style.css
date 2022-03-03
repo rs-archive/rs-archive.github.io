@@ -4,6 +4,11 @@
 	font-family:Poppins;
 }
 
+h2 a {
+	color:inherit;
+	text-decoration: inherit;
+}
+
 a {
 	color:#af0b0b
 }
@@ -24,13 +29,17 @@ header {
 	color:white;
 }
 
-header a {
+nav a {
 	color:#C3AB75;
 	text-decoration:none;
 	transition:all 0.3s ease;
 }
 
-header a:hover {
+nav a:hover {
+	color:#fdb513;
+}
+
+.active {
 	color:#fdb513;
 }
 
