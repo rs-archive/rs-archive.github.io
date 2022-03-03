@@ -1,0 +1,129 @@
+* {
+	padding:0;
+	margin:0;
+	font-family:Poppins;
+}
+
+a {
+	color:#af0b0b
+}
+
+body {
+	background:navajowhite;
+}
+
+.col {
+	width: 720px;
+	margin:auto auto;
+	display:flex;
+	height: 100%;
+}
+
+header {
+	background:#333;
+	color:white;
+}
+
+header a {
+	color:#C3AB75;
+	text-decoration:none;
+	transition:all 0.3s ease;
+}
+
+header a:hover {
+	color:#fdb513;
+}
+
+main {
+	color:#333;
+}
+
+
+#hero {
+	background:url('img/headbanner.jpg');
+	height:420px;
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+#heroForeground {
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	margin:auto auto;
+}
+
+#heroCenterImage img {
+	width:420px;
+	filter: drop-shadow(2px 1px 1px rgba(0, 0, 0, 0.3));
+}
+
+#heroButtons {
+	padding-top:10px;
+	margin:auto auto;
+}
+
+#heroButtons button { 
+	border-radius:15px;
+	border:2px solid #dfdfdf;
+	height:30px;
+	margin:3px;
+	cursor:pointer;
+	transition:all 0.3s ease;
+}
+
+#howToHelp {
+	width:175px;
+	color:#555;
+}
+
+#howToHelp:hover {
+	width:175px;
+	background-color:#ffffff33;
+	color:black;
+}
+
+#faq {
+	width:95px;
+	color:white;
+	background-color:#ffffff00;
+}
+
+#faq:hover {
+	color:black;
+	background-color:#ffffff;
+}
+
+#logo {
+	flex:1;
+}
+
+nav {
+	display:flex;
+	align-items:center;
+}
+
+h2 {
+	padding: 1em 0px;
+}
+
+nav a {
+	padding:15px;
+}
+
+
+#content {
+	text-align: justify;
+	padding-top:15px;
+}
+
+
+footer {
+	padding-top:35px;
+}
+
+footer center small {
+	font-family:Monospace;
+}
