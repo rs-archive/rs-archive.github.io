@@ -1,5 +1,5 @@
 ![RuneScape Archive](https://i.imgur.com/Ni26nwe.png)
 
-The RuneScape Archive is a project dedicated to find old versions of RuneScape. This repository serve as an archive of knowledge and resources for all versions of the game.
+The RuneScape Archive project is dedicated to finding the lost versions of RuneScape from 2001 until 2012.
 
 
